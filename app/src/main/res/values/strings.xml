@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Baloot-Danial Iranpour</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="profile">Profile</string>
+    <string name="name">Danial Iranpour</string>
+    <string name="github_page">Click to see my <a href="https://github.com/prosperian">Github</a> page</string>
+    <string name="about_me">
+        A self-taught and self-motivated developer who finds the best solutions with hard work and thinking out of the box.
+More than four years of experience in building, integrating, testing and supporting android applications.
+I like working with new technologies like BLE and i\'m working with BLE about a year now.
+My skills are android development and web development in java also i\'m interested in web-scraping and crawling with python.
+An open-minded engineer graduated from Shahroud University of Technology.
+    </string>
+    <string name="about_btn">About</string>
+</resources>
